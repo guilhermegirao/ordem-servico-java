@@ -15,8 +15,8 @@ Aplicação simples de um sistema de Ordem de Serviço feito em Java MVC.
 * Código compilado para execução
 * Código aberto para edições
 
-## Versão
-1.0
+## Versão 1.0
 
 ## Autor
-* **Guilherme Girão Alves**
+
+- [Guilherme Girão](https://github.com/guilhermegirao)
