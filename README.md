@@ -7,7 +7,7 @@ Aplicação simples de um sistema de Ordem de Serviço feito em Java MVC.
 ## Feito com:
 * Java com a biblioteca Swing para criação de telas;
 * Biblioteca iTextPdf para geração de PDF's;
-* MySql para o banco de dados.
+* MySQL para o banco de dados.
 
 ## Features:
 * Diagrama de casos de uso UML
